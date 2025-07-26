@@ -7,7 +7,6 @@
 dst-env/
 .cache/v/cache/lastfailed
 tests/.cache/v/cache/lastfailed
-.vscode/settings.json
 .flask_secret_key
 
 ##
@@ -478,3 +477,6 @@ dashboard.html
 
 # Database
 *.sqlite*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
